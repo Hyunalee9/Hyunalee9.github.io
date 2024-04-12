@@ -1,0 +1,54 @@
+# main links
+main:
+  - title: "Archive"
+    url: /year-archive/
+  - title: "tag"
+    url: /tags/
+  - title: "Category"
+    url: /categories/
+#  - title: "Quick-Start Guide"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+#  - title: "About"
+#    url: https://mmistakes.github.io/minimal-mistakes/about/
+   
+
+docs:
+  - title: "Programming" 
+    children:
+      - title: "Python"
+        url: /categories/#python
+      - title: "Java"
+        url: /categories/#java
+      - title: "MariaDB"
+        url: /categories/#mariadb
+      - title: "JSP"
+        url: /categories/#jsp
+
+  - title: "Project"
+    children:
+      - title: "My little things"
+        url: /categories/#mylittlethings
+      - title: "작은 발자국"
+        url: /categories/#smallstep
+    #  - title: "UI Text"
+    #    url: /docs/ui-text/
+    #  - title: "Authors"
+    #    url: /docs/authors/
+    #  - title: "Layouts"
+    #    url: /docs/layouts/
+
+  - title: "2021"
+    children:
+      - title: "TIL"
+        url: /categories/#til
+     # - title: "Working with Pages"
+     #   url: /docs/pages/
+     # - title: "Working with Collections"
+     #   url: /docs/collections/
+
+  - title: Backend
+    children:
+      - title: "Django"
+        url: /categories/#django
+      - title: "Spring"
+        url: /categories/#spring
