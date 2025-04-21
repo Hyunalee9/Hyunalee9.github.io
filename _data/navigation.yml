@@ -22,7 +22,7 @@ docs:
       - title: "MariaDB"
         url: /categories/#mariadb
       - title: "ORACLE12c"
-        url: /categories/#oracle
+        url: /categories/#oracle12c
       - title: "JSP"
         url: /categories/#jsp
 
@@ -39,7 +39,7 @@ docs:
     #  - title: "Layouts"
     #    url: /docs/layouts/
 
-  - title: "2021"
+  - title: "2021-2025"
     children:
       - title: "TIL"
         url: /categories/#til
