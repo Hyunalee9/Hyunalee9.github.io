@@ -98,7 +98,7 @@ author:
   avatar           : "/assets/finn.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "꾸준한 성장과 행복한 삶이 목표인 사람입니다."
   location         : "Seongnam, South Korea"
-  email            : "elites3@naver.com"
+  email            : "sweetp29@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -210,7 +210,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Aisa/Seoul
 
 
 # Plugins (previously gems:)
