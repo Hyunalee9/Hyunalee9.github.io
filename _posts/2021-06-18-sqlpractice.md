@@ -1,12 +1,12 @@
 ---
-title: "sql 쿼리 연습"
-excerpt : "멘탈이 부서진 날에도 쿼리연습을 했다."
+title: sql 쿼리 연습
+excerpt: 멘탈이 부서진 날에도 쿼리연습을 했다.
 categories:
-      - MariaDB
+  - MariaDB
 tags:
-      - MariaDB
-      - TIL  
-last_modified_at: 2021-06-18 T14:28
+  - MariaDB
+  - TIL
+last_modified_at: '2021-06-18 T14:28'
 ---
 
 ```sql
@@ -270,4 +270,4 @@ WHERE A.to_date LIKE ('9999%')
 GROUP BY A.dept_no;
 ```
 
-![21](/assets/20210618/21.png)   
+![21](/assets/20210618/21.png)
