@@ -1,6 +1,6 @@
 ---
 title: sql 쿼리 연습
-excerpt: 멘탈이 부서진 날에도 쿼리연습을 했다.
+excerpt: null
 categories:
   - MariaDB
 tags:
