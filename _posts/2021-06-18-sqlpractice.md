@@ -1,12 +1,12 @@
 ---
 title: sql 쿼리 연습
-excerpt: null
 categories:
   - MariaDB
 tags:
   - MariaDB
   - TIL
 last_modified_at: '2021-06-18 T14:28'
+excerpt: ''
 ---
 
 ```sql
