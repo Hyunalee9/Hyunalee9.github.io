@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "현아의 개발일지"
+title                    : "Fountain of Delight"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hyuna"
-description              : "꾸준한 성장과 행복한 삶이 목표인 사람입니다."
+name                     : "COCO"
+description              : "기록으로 한 걸음 더 나아가기 happy."
 url                      : "https://.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hyuna"
-  avatar           : "/assets/finn.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "꾸준한 성장과 행복한 삶이 목표인 사람입니다."
+  name             : "COCO"
+  avatar           : "/assets/smile.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "기록으로 한 걸음 더 나아가기 happy."
   location         : "Seongnam, South Korea"
   email            : "sweetp29@naver.com"
   links:
@@ -282,4 +282,3 @@ defaults:
       comments:  false
       share: false
       related: true
- 
