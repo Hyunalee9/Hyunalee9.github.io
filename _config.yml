@@ -277,6 +277,8 @@ defaults:
       sidebar:
          nav: "docs"
       layout: single
+      toc : true #250510
+      toc_sticky: true #250510
       author_profile: true
       read_time: true
       comments:  false
