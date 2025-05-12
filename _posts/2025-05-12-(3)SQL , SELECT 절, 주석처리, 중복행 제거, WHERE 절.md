@@ -1,12 +1,12 @@
 ---
-title: " SQL , SELECT 절, 주석처리, 중복행 제거, WHERE 절"
-excerpt: ""
+title: "[15일차] SQL , SELECT 절, 주석처리, 중복행 제거, WHERE 절"
+excerpt: "아이티윌 0512_(3)"
 categories:
       - ORACLE11g
 tags:
-      - ORACLE11g
+      -  ORACLE11g
       - TIL
-last-modified-at: 2025-05-12T20:52
+last-modified-at: 2025-05-12T20:48
 ---
 
 # SQL , SELECT 절, 주석처리, 중복행 제거, WHERE 절

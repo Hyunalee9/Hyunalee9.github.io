@@ -1,12 +1,12 @@
 ---
-title: " DATA, DB 와 DBMS , TABLE"
-excerpt: ""
+title: "[15일차] DATA, DB 와 DBMS , TABLE"
+excerpt: "아이티윌 0512_(2)"
 categories:
       - ORACLE11g
 tags:
-      - ORACLE11g
+      -  ORACLE11g
       - TIL
-last-modified-at: 2025-05-12T20:52
+last-modified-at: 2025-05-12T20:48
 ---
 
 # DATA, DB 와 DBMS , TABLE
