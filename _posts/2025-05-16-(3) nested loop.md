@@ -1,6 +1,6 @@
 ---
 title: "[19일차] 연습문제"
-excerpt: "group by,to_char,join"
+excerpt: "아이티윌 0516_(3) group by,to_char,join"
 categories:
       - ORACLE11g
 tags:
@@ -39,11 +39,9 @@ ORDER BY 1;
 
 [문제24] 년도별 입사 인원수를 아래 화면과 같이 출력해주세요.     
 
-                                                                        TOTAL  2001년     2002년   2003년
-
-                                                                     ---------- ---------- ---------- ----------       
-
-                                                                                107          1            7          6
+ TOTAL  2001년     2002년   2003년
+---------- ---------- ---------- ----------       
+ 107          1            7          6
 
 ```sql
 -- 나쁜 코드 : 성능 나빠지게 한다. 
@@ -149,7 +147,7 @@ SQL> SELECT
 				COMMISSION_PCT  ||','||
 				MANAGER_ID      ||','|| 
 				DEPARTMENT_ID
-		 FROM hr.employees;
+	FROM hr.employees;
 ```
 
 1. `SPOOL OFF` 명령어 실행해, 파일 저장 과정 종료
@@ -232,22 +230,6 @@ AND e.department_id = 80;
 
 ![image.png](/assets/20250517/9.png)
 
-```sql
--- cartesian product 과 비교
-
-SELECT
-    e.last_name, e.job_id, d.department_name
-FROM hr.employees e, hr.departments d
-WHERE e.department_id = 80;
-```
-
-![image.png](/assets/20250517/10.png)
-
-….
-
-![image.png](/assets/20250517/11.png)
-
-→ **DEPARTMENTS 테이블의 27개의 부서 * EMPLOYEES 테이블의 80 부서인 사원 수** **34** 한 결과 반환.
 
 ```python
 # 다시 파이썬으로 locations 테이블과 조인하고 city 결과값 가져오기
