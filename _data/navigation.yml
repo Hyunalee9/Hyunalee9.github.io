@@ -24,7 +24,7 @@ docs:
       # - title: "JSP"
       #   url: /categories/#jsp
 
-  - title: "DB" 
+  - title: "DBMS" 
     children:
       - title: "ORACLE12c"
         url: /categories/#oracle12c
