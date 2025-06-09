@@ -30,6 +30,11 @@ docs:
         url: /categories/#oracle12c
       - title: "ORACLE11g"
         url: /categories/#oracle11g
+  
+  - title: "자격증준비" 
+    children:
+      - title: "Ocp"
+        url: /categories/#ocp    
 
   # - title: "Project"
   #   children:
