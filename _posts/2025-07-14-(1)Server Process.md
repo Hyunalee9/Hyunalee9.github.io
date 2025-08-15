@@ -1,5 +1,5 @@
 ---
-title: "Server Process"
+title: "[56일차] Server Process"
 excerpt: "아이티윌 0714_(1)"
 categories:
       - ORACLE11g

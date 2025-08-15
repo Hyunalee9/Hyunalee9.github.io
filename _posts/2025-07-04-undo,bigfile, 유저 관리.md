@@ -1,5 +1,5 @@
 ---
-title: "undo, bigfile, 유저 관리"
+title: "[51일차] undo, bigfile, 유저 관리"
 excerpt: "아이티윌 0704 "
 categories:
       - ORACLE11g

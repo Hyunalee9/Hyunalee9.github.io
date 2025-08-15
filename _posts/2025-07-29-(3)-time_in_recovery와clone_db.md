@@ -1,5 +1,5 @@
 ---
-title: "time in recovery 와 clone db"
+title: "[63일차] time in recovery 와 clone db"
 excerpt: "아이티윌 0729_(3)"
 categories:
       - ORACLE11g

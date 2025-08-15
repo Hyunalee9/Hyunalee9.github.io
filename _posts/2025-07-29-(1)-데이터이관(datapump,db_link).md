@@ -1,5 +1,5 @@
 ---
-title: "데이터 이관 (Data pump, DB LINK)"
+title: "[63일차] 데이터 이관 (Data pump, DB LINK)"
 excerpt: "아이티윌 0729_(1)"
 categories:
       - ORACLE11g

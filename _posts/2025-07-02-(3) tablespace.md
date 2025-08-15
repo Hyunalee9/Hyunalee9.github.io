@@ -1,5 +1,5 @@
 ---
-title: "논리적 구조 :  tablespace"
+title: "[49일차] 논리적 구조 :  tablespace"
 excerpt: "아이티윌 0702_(3) "
 categories:
       - ORACLE11g

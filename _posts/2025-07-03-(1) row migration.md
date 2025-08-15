@@ -1,5 +1,5 @@
 ---
-title: "세그먼트 관리 방식과 Row Migration"
+title: "[50일차] 세그먼트 관리 방식과 Row Migration"
 excerpt: "아이티윌 0703_(1) "
 categories:
       - ORACLE11g

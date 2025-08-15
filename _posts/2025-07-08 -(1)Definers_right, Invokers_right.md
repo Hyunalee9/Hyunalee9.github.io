@@ -1,5 +1,5 @@
 ---
-title: "Definer's right, Invoke's right"
+title: "[53일차] Definer's right, Invoke's right"
 excerpt: "아이티윌 0708_(1)"
 categories:
       - ORACLE11g

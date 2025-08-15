@@ -1,5 +1,5 @@
 ---
-title: "Network_Oracle Net Service"
+title: "[55일차] Network_Oracle Net Service"
 excerpt: "아이티윌 0710_(2)"
 categories:
       - ORACLE11g

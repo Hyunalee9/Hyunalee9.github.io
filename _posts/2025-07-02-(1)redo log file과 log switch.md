@@ -1,5 +1,5 @@
 ---
-title: "redo log file과 log switch"
+title: "[49일차] redo log file과 log switch"
 excerpt: "아이티윌 0702_(1) "
 categories:
       - ORACLE11g

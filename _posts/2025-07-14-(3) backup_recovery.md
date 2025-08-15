@@ -1,5 +1,5 @@
 ---
-title: "Backup & Recovery"
+title: "[56일차] Backup & Recovery"
 excerpt: "아이티윌 0714_(3)"
 categories:
       - ORACLE11g

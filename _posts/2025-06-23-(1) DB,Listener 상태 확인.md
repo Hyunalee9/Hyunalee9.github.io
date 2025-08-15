@@ -1,5 +1,5 @@
 ---
-title: "DB, Listner 상태 확인"
+title: "[43일차] DB, Listner 상태 확인"
 excerpt: "아이티윌 0623_(1) "
 categories:
       - ORACLE11g

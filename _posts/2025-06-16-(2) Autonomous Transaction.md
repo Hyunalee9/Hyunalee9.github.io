@@ -1,5 +1,5 @@
 ---
-title: "Autonomous Transaction"
+title: "[38일차] Autonomous Transaction"
 excerpt: "아이티윌 0616_(2) "
 categories:
       - ORACLE11g
