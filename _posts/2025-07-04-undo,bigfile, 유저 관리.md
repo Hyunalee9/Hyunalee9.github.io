@@ -2,9 +2,9 @@
 title: "[51일차] undo, bigfile, 유저 관리"
 excerpt: "아이티윌 0704 "
 categories:
-      - ORACLE11g
+      - ORACLE19c
 tags:
-      - ORACLE11g
+      - ORACLE19c
       - TIL
 last-modified-at: 2025-07-04T23:00
 ---

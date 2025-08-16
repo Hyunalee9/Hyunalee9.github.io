@@ -2,9 +2,9 @@
 title: "[49일차] redo log file과 log switch"
 excerpt: "아이티윌 0702_(1) "
 categories:
-      - ORACLE11g
+      - ORACLE19c
 tags:
-      - ORACLE11g
+      - ORACLE19c
       - TIL
 last-modified-at: 2025-07-02T23:00
 ---

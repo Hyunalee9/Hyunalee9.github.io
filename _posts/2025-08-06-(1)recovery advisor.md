@@ -2,9 +2,9 @@
 title: "[72일차] Recovery Advisor "
 excerpt: "아이티윌 0806_(1)"
 categories:
-      - ORACLE11g
+      - ORACLE19c
 tags:
-      - ORACLE11g
+      - ORACLE19c
       - TIL
 last-modified-at: 2025-08-06T21:08
 ---

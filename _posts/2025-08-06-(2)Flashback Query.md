@@ -2,9 +2,9 @@
 title: "[72일차] Flashback Query "
 excerpt: "아이티윌 0806_(2)"
 categories:
-      - ORACLE11g
+      - ORACLE19c
 tags:
-      - ORACLE11g
+      - ORACLE19c
       - TIL
 last-modified-at: 2025-08-06T21:08
 ---

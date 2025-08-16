@@ -2,9 +2,9 @@
 title: "[70일차] incremental level의 백업 "
 excerpt: "아이티윌 0804"
 categories:
-      - ORACLE11g
+      - ORACLE19c
 tags:
-      - ORACLE11g
+      - ORACLE19c
       - TIL
 last-modified-at: 2025-08-04T21:08
 ---

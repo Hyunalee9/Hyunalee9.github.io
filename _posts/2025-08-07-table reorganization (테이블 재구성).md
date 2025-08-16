@@ -2,9 +2,9 @@
 title: "[73일차] table reorganization (테이블 재구성) "
 excerpt: "아이티윌 0807_(2)"
 categories:
-      - ORACLE11g
+      - ORACLE19c
 tags:
-      - ORACLE11g
+      - ORACLE19c
       - TIL
 last-modified-at: 2025-08-07T21:08
 ---

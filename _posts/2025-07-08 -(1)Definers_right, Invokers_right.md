@@ -2,9 +2,9 @@
 title: "[53일차] Definer's right, Invoke's right"
 excerpt: "아이티윌 0708_(1)"
 categories:
-      - ORACLE11g
+      - ORACLE19c
 tags:
-      - ORACLE11g
+      - ORACLE19c
       - TIL
 last-modified-at: 2025-07-08T18:01
 ---

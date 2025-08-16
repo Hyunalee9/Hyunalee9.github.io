@@ -2,9 +2,9 @@
 title: "[50일차] 세그먼트 관리 방식과 Row Migration"
 excerpt: "아이티윌 0703_(1) "
 categories:
-      - ORACLE11g
+      - ORACLE19c
 tags:
-      - ORACLE11g
+      - ORACLE19c
       - TIL
 last-modified-at: 2025-07-03T23:00
 ---

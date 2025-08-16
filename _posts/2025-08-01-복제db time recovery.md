@@ -2,9 +2,9 @@
 title: "[69일차] 복제 DB time recovery "
 excerpt: "아이티윌 0801"
 categories:
-      - ORACLE11g
+      - ORACLE19c
 tags:
-      - ORACLE11g
+      - ORACLE19c
       - TIL
 last-modified-at: 2025-08-01T21:08
 ---

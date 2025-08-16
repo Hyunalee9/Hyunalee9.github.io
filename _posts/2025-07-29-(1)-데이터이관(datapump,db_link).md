@@ -2,9 +2,9 @@
 title: "[66일차] 데이터 이관 (Data pump, DB LINK)"
 excerpt: "아이티윌 0729_(1)"
 categories:
-      - ORACLE11g
+      - ORACLE19c
 tags:
-      - ORACLE11g
+      - ORACLE19c
       - TIL
 last-modified-at: 2025-07-29T21:08
 ---

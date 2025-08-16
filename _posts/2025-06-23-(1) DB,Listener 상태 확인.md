@@ -2,9 +2,9 @@
 title: "[43일차] DB, Listner 상태 확인"
 excerpt: "아이티윌 0623_(1) "
 categories:
-      - ORACLE11g
+      - ORACLE19c
 tags:
-      - ORACLE11g
+      - ORACLE19c
       - TIL
 last-modified-at: 2025-06-23T17:34
 ---

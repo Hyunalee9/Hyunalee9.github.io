@@ -2,9 +2,9 @@
 title: "[66일차] time in recovery 와 clone db"
 excerpt: "아이티윌 0729_(3)"
 categories:
-      - ORACLE11g
+      - ORACLE19c
 tags:
-      - ORACLE11g
+      - ORACLE19c
       - TIL
 last-modified-at: 2025-07-29T21:08
 ---

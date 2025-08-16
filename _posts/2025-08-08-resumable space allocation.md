@@ -2,9 +2,9 @@
 title: "[74일차] resumable space allocation "
 excerpt: "아이티윌 0808"
 categories:
-      - ORACLE11g
+      - ORACLE19c
 tags:
-      - ORACLE11g
+      - ORACLE19c
       - TIL
 last-modified-at: 2025-08-08T21:08
 ---

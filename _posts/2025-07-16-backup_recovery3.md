@@ -2,9 +2,9 @@
 title: "[58일차] Backup & Recovery3"
 excerpt: "아이티윌 0716"
 categories:
-      - ORACLE11g
+      - ORACLE19c
 tags:
-      - ORACLE11g
+      - ORACLE19c
       - TIL
 last-modified-at: 2025-07-16T20:20
 ---

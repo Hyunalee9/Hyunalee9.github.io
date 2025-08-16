@@ -2,9 +2,9 @@
 title: "[55일차] Network_Oracle Net Service"
 excerpt: "아이티윌 0710_(2)"
 categories:
-      - ORACLE11g
+      - ORACLE19c
 tags:
-      - ORACLE11g
+      - ORACLE19c
       - TIL
 last-modified-at: 2025-07-10T18:01
 ---
